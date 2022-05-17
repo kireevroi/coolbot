@@ -2,7 +2,7 @@
 
 ## Description
 
-A censored version of a python telegram bot
+A censored version of the universal telegram bot
 
 ## Changelog
 
